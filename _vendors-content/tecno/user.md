@@ -1,6 +1,6 @@
----
+---iphone
 manufacturer:
-    - tecno
+    - iphone 
 
 ---
 
